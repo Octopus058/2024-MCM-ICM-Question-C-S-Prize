@@ -1,0 +1,28 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}Restatement of the Problem}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Our Works}{1}{}%
+\contentsline {section}{\numberline {2}Assumptions and Notations}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Assumptions}{2}{}%
+\contentsline {subsection}{\numberline {2.2}Notations}{2}{}%
+\contentsline {section}{\numberline {3}Model Construction and Analysis}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Momentum Model for Local Performance Analysis}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.1}How to Calculate Momentum?}{3}{}%
+\contentsline {subsubsection}{\numberline {3.1.2}Model Testing}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Momentum-Score Gap Correlation Test Model}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}Visual Observation}{6}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}Pearson Correlation Test}{6}{}%
+\contentsline {subsection}{\numberline {3.3}Momentum-Swings Prediction Model}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}How to Define Swings?}{7}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}What Factors Influence Swings Most?}{8}{}%
+\contentsline {subsubsection}{\numberline {3.3.3}Model Construction}{9}{}%
+\contentsline {subsection}{\numberline {3.4}Suggestions}{10}{}%
+\contentsline {section}{\numberline {4}Further Testing}{11}{}%
+\contentsline {subsection}{\numberline {4.1}Why Djokovic lose?}{11}{}%
+\contentsline {subsection}{\numberline {4.2}Expanding Research}{13}{}%
+\contentsline {section}{\numberline {5}Strengths and Weaknesses}{14}{}%
+\contentsline {subsection}{\numberline {5.1}Strengths}{14}{}%
+\contentsline {subsection}{\numberline {5.2}Weaknesses}{14}{}%
+\contentsline {section}{\numberline {6}Stability Analysis}{15}{}%
+\contentsline {section}{\numberline {7}Conclusion}{16}{}%
+\contentsline {section}{References}{17}{}%
+\contentsline {section}{Appendice}{18}{}%
